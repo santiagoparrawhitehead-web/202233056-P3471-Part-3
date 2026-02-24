@@ -1,1 +1,34 @@
 # 202233056-P3471-Part-3
+<html>
+<head>
+<style>
+ body {
+    background-color: #add8e6; /* Light Blue */
+    margin: 0 250px;           /* 250px side margins */
+    font-family: sans-serif;}
+
+ h1 {
+    font-size: 24px;
+    color: #333;
+    padding: 20px;            /* Adds space all around the text */
+    border-bottom: 2px solid white; /* The white line */
+    margin: 0;                /* Resets default browser margins */
+  }	
+
+</head>
+</style>
+<body> 
+<title>
+Controversy, Conspiracy, and a Cyber-Attack: Is Jaguar’s Rebrand Driving Towards Critical Acclaim or a Car Crash? 
+</title>
+<p>
+This page is dedicated to information about Jaguar's as yet unnamed four-door GT, which will be launching in Spetember 2026.
+</p>
+
+<iframe src="https://uploads.knightlab.com/storymapjs/4c920f572f6d5c4ddece76aa0dfcddb9/storymap-1/index.html" frameborder="0" width="100%" height="800"></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vTGQqrQktVW4wLasegUViXet0OH7QfgtR_FQiXj1GctsAn6U9X0pF4ypHkW6SCX78NwQi5k1-Qc0D1G&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe title="Greenhouse Gas Emissions in Scotland (1990-2023)" aria-label="Line chart" id="datawrapper-chart-PDH3M" src="https://datawrapper.dwcdn.net/PDH3M/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="424" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe title="Battery Electric Vehicle Sales (2019-2024)" aria-label="Stacked Bars" id="datawrapper-chart-eYW4L" src="https://datawrapper.dwcdn.net/eYW4L/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="302" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<div class="flourish-embed flourish-chart" data-src="visualisation/27773930"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/27773930/thumbnail" width="100%" alt="visualization" /></noscript></div>
+</body>
+</html>
